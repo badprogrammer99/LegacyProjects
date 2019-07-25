@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inquéritos Mamã</string>
+    <string name="botao_confirmar">Confirmar</string>
+    <string name="registar_password_mensagem">Por motivos de segurança, por favor introduza uma nova palavra-passe:</string>
+    <string name="confirmar_password_mensagem">Confirme a sua palavra-passe:</string>
+    <string name="departamento_urgencia_parto">Departamento de urgência de parto</string>
+    <string name="numero_paciente">Paciente nº %1$s</string>
+</resources>

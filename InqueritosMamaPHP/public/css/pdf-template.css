@@ -1,0 +1,69 @@
+#report-container * {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#report-container hr {
+	height: 1px;
+	background-color: black;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.header h2 {
+	font-family: sans-serif;
+}
+
+.header .report-information .information-box {
+	display: grid;
+	padding-bottom: 5px;
+	font-family: 'Trebuchet MS';
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	padding-top: 10px;
+	font-family: 'Arial', sans-serif;
+}
+
+.content .questionnaire-list {
+	padding-left: 20px !important;
+}
+
+.content .questionnaire-box {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding-left: 30px !important;
+	margin-bottom: 20px;
+}
+
+.content .questionnaire-box .table {
+	margin: 0 0 40px 0;
+	width: 100%;
+	display: table;
+}
+
+.content .questionnaire-box .table .row {
+	display: table-row;
+	background: #f6f6f6;
+}
+
+.content .questionnaire-box .table .row:nth-of-type(odd) {
+	background: #e9e9e9;
+}
+
+.content .questionnaire-box .table .row.header {
+	font-weight: 900;
+	color: #B5BAD0;
+	background: #2980B9;
+}
+
+.content .questionnaire-box .table .cell {
+	padding: 6px 12px !important;
+	display: table-cell;
+}

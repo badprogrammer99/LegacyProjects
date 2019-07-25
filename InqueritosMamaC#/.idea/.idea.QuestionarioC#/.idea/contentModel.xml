@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Zeze\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Zeze\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_QuestionarioC#.1236516349.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Zeze\Desktop\QuestionarioC#" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ClientApp" t="Include">
+        <e p="boot.ts" t="Include" />
+        <e p="components" t="Include">
+          <e p="app" t="Include">
+            <e p="app.ts" t="Include" />
+            <e p="app.vue.html" t="Include" />
+          </e>
+          <e p="counter" t="Include">
+            <e p="counter.ts" t="Include" />
+            <e p="counter.vue.html" t="Include" />
+          </e>
+          <e p="fetchdata" t="Include">
+            <e p="fetchdata.ts" t="Include" />
+            <e p="fetchdata.vue.html" t="Include" />
+          </e>
+          <e p="home" t="Include">
+            <e p="home.vue.html" t="Include" />
+          </e>
+          <e p="navmenu" t="Include">
+            <e p="navmenu.css" t="Include" />
+            <e p="navmenu.vue.html" t="Include" />
+          </e>
+        </e>
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="HomeController.cs" t="Include" />
+        <e p="SampleDataController.cs" t="Include" />
+        <e p="UserController.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include">
+        <e p="BCryptHelper.cs" t="Include" />
+      </e>
+      <e p="Interfaces" t="Include">
+        <e p="ITokenService.cs" t="Include" />
+        <e p="Repositories" t="Include">
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Middlewares" t="Include">
+        <e p="AuthenticationMiddleware.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20190427212420_FirstMigration.cs" t="Include" />
+        <e p="20190427212420_FirstMigration.Designer.cs" t="Include" />
+        <e p="ApplicationContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Answer.cs" t="Include" />
+        <e p="AnswerChoice.cs" t="Include" />
+        <e p="ChoiceQuestion.cs" t="Include" />
+        <e p="ChosenAnswer.cs" t="Include" />
+        <e p="context" t="Include">
+          <e p="ApplicationContext.cs" t="Include" />
+          <e p="ModelBuilderExtensions.cs" t="Include" />
+        </e>
+        <e p="FreeAnswer.cs" t="Include" />
+        <e p="Inquiry.cs" t="Include" />
+        <e p="OKTA" t="Include">
+          <e p="OktaSettings.cs" t="Include" />
+        </e>
+        <e p="Question.cs" t="Include" />
+        <e p="QuestionAnswerChoice.cs" t="Include" />
+        <e p="Questionnaire.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="UserInquiry.cs" t="Include" />
+      </e>
+      <e p="node_modules" t="ExcludeRecursive">
+        <e p="@types" t="IncludeRecursive">
+          <e p="webpack-env" t="IncludeRecursive" />
+        </e>
+        <e p="aspnet-webpack" t="IncludeRecursive" />
+        <e p="awesome-typescript-loader" t="IncludeRecursive" />
+        <e p="bootstrap" t="IncludeRecursive" />
+        <e p="css-loader" t="IncludeRecursive" />
+        <e p="event-source-polyfill" t="IncludeRecursive" />
+        <e p="extract-text-webpack-plugin" t="IncludeRecursive" />
+        <e p="file-loader" t="IncludeRecursive" />
+        <e p="isomorphic-fetch" t="IncludeRecursive" />
+        <e p="jquery" t="IncludeRecursive" />
+        <e p="style-loader" t="IncludeRecursive" />
+        <e p="url-loader" t="IncludeRecursive" />
+        <e p="vue" t="IncludeRecursive" />
+        <e p="vue-loader" t="IncludeRecursive" />
+        <e p="vue-property-decorator" t="IncludeRecursive" />
+        <e p="vue-router" t="IncludeRecursive" />
+        <e p="vue-template-compiler" t="IncludeRecursive" />
+        <e p="webpack" t="IncludeRecursive" />
+        <e p="webpack-hot-middleware" t="IncludeRecursive" />
+      </e>
+      <e p="npm-shrinkwrap.json" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="QuestionarioC#.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="OktaTokenService.cs" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="QuestionarioC#.csproj" t="IncludeRecursive" />
+      <e p="Repositories" t="Include">
+        <e p="AbstractRepository.cs" t="Include" />
+        <e p="UserRepository.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="tsconfig.json" t="Include" />
+      <e p="Utils" t="Include">
+        <e p="StringUtils.cs" t="Include" />
+      </e>
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="webpack.config.js" t="Include" />
+      <e p="webpack.config.vendor.js" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="dist" t="ExcludeRecursive">
+          <e p="89889688147bd7575d6327160d64e760.svg" t="Include" />
+          <e p="main.js" t="Include" />
+          <e p="main.js.map" t="Include" />
+          <e p="vendor-manifest.json" t="Include" />
+          <e p="vendor.css" t="Include" />
+          <e p="vendor.js" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
